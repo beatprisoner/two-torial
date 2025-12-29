@@ -26,7 +26,7 @@
     
     
       
-        <title>Modding (Konami) - beatprisoner.github.io/two-torial</title>
+        <title>Modding (Konami) - two-torial</title>
       
     
     
@@ -96,7 +96,7 @@
 
 <header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="beatprisoner.github.io/two-torial" class="md-header__button md-logo" aria-label="beatprisoner.github.io/two-torial" data-md-component="logo">
+    <a href="../.." title="two-torial" class="md-header__button md-logo" aria-label="two-torial" data-md-component="logo">
       
   <img src="../../img/two-torial/website-logo.svg" alt="logo">
 
@@ -109,7 +109,7 @@
       <div class="md-header__ellipsis">
         <div class="md-header__topic">
           <span class="md-ellipsis">
-            beatprisoner.github.io/two-torial
+            two-torial
           </span>
         </div>
         <div class="md-header__topic" data-md-component="header-topic">
@@ -241,12 +241,12 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="beatprisoner.github.io/two-torial" class="md-nav__button md-logo" aria-label="beatprisoner.github.io/two-torial" data-md-component="logo">
+    <a href="../.." title="two-torial" class="md-nav__button md-logo" aria-label="two-torial" data-md-component="logo">
       
   <img src="../../img/two-torial/website-logo.svg" alt="logo">
 
     </a>
-    beatprisoner.github.io/two-torial
+    two-torial
   </label>
   
     <div class="md-nav__source">
@@ -9150,7 +9150,7 @@ No files will be removed or overwritten.</p>
 <ul>
 <li>Create a <code>data_mods</code> folder next to the others in your game files if it doesn't exist</li>
 </ul>
-<p><img src="/img/extras/datamods/1.webp"></p>
+<p><img src="img/extras/datamods/1.webp"></p>
 <ul>
 <li>Place your mod files inside data_mods in a way that respects the following structure <br />
 <code>data_mods/mod_folder/&lt;data folders/&lt;data_files&gt;</code></li>
@@ -9176,9 +9176,9 @@ If you're confused, the following may help you understand what we mean.</p>
 <div class="admonition info">
 <p class="admonition-title">Example: Omnimix for beatmania IIDX 31 EPOLIS</p>
 <p><strong>Directory</strong>: <code>contents/data_mods/</code>
-<img src="/img/extras/datamods/2.webp"></p>
+<img src="img/extras/datamods/2.webp"></p>
 <p><strong>Directory</strong>: <code>contents/data_mods/omnimix_31</code>
-<img src="/img/extras/datamods/3.webp"></p>
+<img src="img/extras/datamods/3.webp"></p>
 </div>
 <h2 id="loading-mods-data-files-ifs_layeredfs">Loading mods data files (ifs_layeredfs)</h2>
 <div class="admonition tip">
@@ -9187,20 +9187,20 @@ This is where ifs_layeredfs comes in, to load modded data files without permanen
 <ul>
 <li>Download the most recent release of <a href="https://github.com/mon/ifs_layeredfs/releases/">ifs_layeredfs</a></li>
 </ul>
-<p><img src="/img/extras/datamods/4.webp"></p>
+<p><img src="img/extras/datamods/4.webp"></p>
 <ul>
 <li>Open the archive</li>
 </ul>
-<p><img src="/img/extras/datamods/5.webp"></p>
+<p><img src="img/extras/datamods/5.webp"></p>
 <ul>
 <li>Your game is 32bit <em>(spice.exe to launch)</em>: go in the <code>32bit</code> folder</li>
 <li>Your game is 64bit <em>(spice64.exe to launch)</em>: go in the <code>64bit</code> folder</li>
 </ul>
-<p><img src="/img/extras/datamods/6.webp"></p>
+<p><img src="img/extras/datamods/6.webp"></p>
 <ul>
 <li>Copy the <code>ifs_hook.dll</code> file to your game's <code>modules</code> folder</li>
 </ul>
-<p><img src="/img/extras/datamods/7.webp"></p>
+<p><img src="img/extras/datamods/7.webp"></p>
 <p>Follow the <a href="#injecting-dll-hooks">Injecting DLL Hooks</a> section to load this DLL.</p>
 </div>
 <h2 id="installing-omnifix-for-iidx-omnimix-only">Installing Omnifix (for IIDX Omnimix only)</h2>
@@ -9233,7 +9233,7 @@ You sometimes need to tell spice2x to load each file individually, like with the
 <p>You may list one or multiple DLL files separated by a space.<br />
 The order does matter, as it dictates in which order the DLL files are loaded.<br />
 <strong>We recommend loading <code>ifs_hook.dll</code> before all else</strong>.</p>
-<p><img src="/img/extras/datamods/8.webp"></p>
+<p><img src="img/extras/datamods/8.webp"></p>
 </div>
 
 
@@ -9255,7 +9255,7 @@ The order does matter, as it dictates in which order the DLL files are loaded.<b
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 29, 2025 11:10:16 UTC">December 29, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 29, 2025 13:02:40 UTC">December 29, 2025</span>
   </span>
 
     
