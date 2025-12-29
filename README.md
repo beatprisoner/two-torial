@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/beatprisoner/two-torial/blob/master/docs/img/two-torial/github-banner.webp?raw=true">
+  <img src="https://github.com/beatprisoner/two-torial/blob/main/docs/img/two-torial/github-banner.webp?raw=true">
 </p>
 
 #
