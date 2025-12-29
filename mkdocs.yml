@@ -1,8 +1,8 @@
-site_name: two-torial.xyz
+site_name: beatprisoner.github.io
 copyright: two-torial Team
 site_description: Arcade Games Troubleshooting Guide
 site_author: two-torial Team
-repo_url: https://github.com/two-torial/two-torial/
+repo_url: https://github.com/beatprisoner/two-torial/
 repo_name: GitHub
 
 nav:
@@ -378,13 +378,7 @@ extra_css:
   - style.css
 
 extra:
-  analytics:
-    provider: custom
-    property: https://tuah-torial.goatcounter.com/count
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/cZRUmEPK78
-      name: Discord
     - icon: fontawesome/brands/github
-      link: https://github.com/two-torial
+      link: https://github.com/beatprisoner/two-torial
       name: GitHub
