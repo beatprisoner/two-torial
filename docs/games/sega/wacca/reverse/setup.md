@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/sega/wacca/reverse/logo.webp">
+<img class="header-logo" src="/two-torial/img/sega/wacca/reverse/logo.webp">
 # Game Setup
 
 --8<-- "docs/snippets/common/data_warning.md"
@@ -129,16 +129,16 @@
 
     Navigate to **SYSTEM SETTING**.
 
-    <img src="/img/sega/wacca/reverse/setup/servicemenu/1_systemsetting.webp">
+    <img src="/two-torial/img/sega/wacca/reverse/setup/servicemenu/1_systemsetting.webp">
 
     Navigate to **CLOSING TIME SETTINGS**.
 
-    <img src="/img/sega/wacca/reverse/setup/servicemenu/2_closingtime.webp">
+    <img src="/two-torial/img/sega/wacca/reverse/setup/servicemenu/2_closingtime.webp">
 
     Navigate to **ALL DAYS OF THE WEEK** and use the `Service` button
     to toggle the setting until it says **OFF**.
 
-    <img src="/img/sega/wacca/reverse/setup/servicemenu/3_closingtimesetting.webp">
+    <img src="/two-torial/img/sega/wacca/reverse/setup/servicemenu/3_closingtimesetting.webp">
 
     Select **APPLY SETTINGS AND RE-BOOT** to save the settings.
 

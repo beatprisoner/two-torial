@@ -175,19 +175,19 @@
 
     Start the game by running `App\package\launch.bat`. Let the game load until you reach a screen with the message below.
 
-    <img src="/img/sega/maimaidx/common/setup/distribution_servers_check.webp">
+    <img src="/two-torial/img/sega/maimaidx/common/setup/distribution_servers_check.webp">
 
     Press your `Test` button (default `F1`) to enter the service menu. Use the `Service` button
     (default `F2`) to navigate the menu, and `Test` button to select an option.
 
     Navigate to **ゲーム設定** (`GAME ASSIGNMENTS`, the 7th option).
 
-    <img src="/img/sega/maimaidx/common/setup/service_menu.webp">
+    <img src="/two-torial/img/sega/maimaidx/common/setup/service_menu.webp">
 
     Select **店内マッチングの設定** (`IN-STORE MATCHING SETUP`, the first option)
     and toggle this setting to **OFF**.
 
-    <img src="/img/sega/maimaidx/common/setup/service_game_settings.webp">
+    <img src="/two-torial/img/sega/maimaidx/common/setup/service_game_settings.webp">
 
     Select **終了** (`EXIT`, the last option) to exit to the main service menu.
 

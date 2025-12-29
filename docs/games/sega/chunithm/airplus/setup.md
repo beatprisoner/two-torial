@@ -1,4 +1,4 @@
 
-<img class="header-logo" src="/img/sega/chunithm/airplus/logo.webp">
+<img class="header-logo" src="/two-torial/img/sega/chunithm/airplus/logo.webp">
 
 --8<-- "docs/games/sega/chunithm/common/chuni/setup_belowcrystal.md"

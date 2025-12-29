@@ -1,2 +1,2 @@
-<img class="header-logo" src="/img/sega/chunithm/sun/logo.webp">
+<img class="header-logo" src="/two-torial/img/sega/chunithm/sun/logo.webp">
 --8<-- "docs/games/sega/chunithm/common/chusan/troubleshooting.md"

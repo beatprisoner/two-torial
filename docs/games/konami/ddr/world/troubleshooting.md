@@ -1,2 +1,2 @@
-<img class="header-logo" src="/img/konami/ddr/world/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/ddr/world/logo.webp">
 --8<-- "docs/games/konami/ddr/common/troubleshooting.md"

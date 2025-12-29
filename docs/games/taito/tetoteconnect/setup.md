@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/taito/tetoteconnect/logo.webp">
+<img class="header-logo" src="/two-torial/img/taito/tetoteconnect/logo.webp">
 # Game Setup
 
 --8<-- "docs/snippets/common/data_warning.md"

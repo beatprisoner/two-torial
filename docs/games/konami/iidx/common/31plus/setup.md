@@ -143,19 +143,19 @@
 
     If it's your first time running the game, you'll immediately be greeted with this screen.
 
-    <img src="/img/konami/iidx/common/firstlaunch/1.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/1.webp">
 
     Press your `Test` key to initialize the backup data, a message will pop up stating it's been initialized.
 
     Next, you'll get another error.
 
-    <img src="/img/konami/iidx/common/firstlaunch/2.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/2.webp">
 
     Press your `Test` key again and let the game run for a bit until the monitor check is complete.
 
     You will now be taken to the service menu.
 
-    <img src="/img/konami/iidx/common/firstlaunch/3.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/3.webp">
 
     Instructions on how to navigate the menu are shown at the bottom of the screen:
 
@@ -164,7 +164,7 @@
   
     Start by going up to `CLOCK`.
 
-    <img src="/img/konami/iidx/common/firstlaunch/4.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/4.webp">
 
     Here, simply select `SAVE AND EXIT` and the clock will be set.
 
@@ -172,19 +172,19 @@
 
     Go to `NETWORK OPTIONS` then `SHOP NAME SETTING`.
 
-    <img src="/img/konami/iidx/common/firstlaunch/5.webp">
-    <img src="/img/konami/iidx/common/firstlaunch/6.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/5.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/6.webp">
 
     You will need to set a shop name.
     
     - Name your shop to whatever you'd like. Again, navigation instructions are at the bottom of the screen.
     - Go to `EXIT` then `SAVE AND EXIT`.
 
-    <img src="/img/konami/iidx/common/firstlaunch/7.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/7.webp">
 
     Select `GAME MODE`.
 
-    <img src="/img/konami/iidx/common/firstlaunch/3.webp">
+    <img src="/two-torial/img/konami/iidx/common/firstlaunch/3.webp">
     
 !!! success "You're all done! The game should load up properly now"
 

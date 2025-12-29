@@ -19,8 +19,8 @@
 
     ??? info "point (sharp, pixel perfect)"
 
-        <img src="/img/konami/iidx/14_gold/iidx14_point.webp">
+        <img src="/two-torial/img/konami/iidx/14_gold/iidx14_point.webp">
     
     ??? info "linear (less sharp, not pixel perfect)"
 
-        <img src="/img/konami/iidx/14_gold/iidx14_linear.webp">
+        <img src="/two-torial/img/konami/iidx/14_gold/iidx14_linear.webp">

@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/sdvx/5_vividwave/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/sdvx/5_vividwave/logo.webp">
 # Troubleshooting
 
 --8<-- "docs/snippets/common/old_guide.md"

@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/sega/wacca/reverse/logo.webp">
+<img class="header-logo" src="/two-torial/img/sega/wacca/reverse/logo.webp">
 # Controllers
 
 --8<-- "docs/snippets/common/data_warning.md"

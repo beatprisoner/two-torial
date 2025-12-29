@@ -21,7 +21,7 @@
 
     - Create a `data_mods` folder next to the others in your game files if it doesn't exist
 
-    <img src="/img/extras/datamods/1.webp">
+    <img src="/two-torial/img/extras/datamods/1.webp">
 
     - Place your mod files inside data_mods in a way that respects the following structure   
         `data_mods/mod_folder/<data folders/<data_files>`
@@ -49,10 +49,10 @@
 !!! info "Example: Omnimix for beatmania IIDX 31 EPOLIS"
 
     **Directory**: `contents/data_mods/`
-    <img src="/img/extras/datamods/2.webp">
+    <img src="/two-torial/img/extras/datamods/2.webp">
     
     **Directory**: `contents/data_mods/omnimix_31`
-    <img src="/img/extras/datamods/3.webp">
+    <img src="/two-torial/img/extras/datamods/3.webp">
 
 ## Loading mods data files (ifs_layeredfs)
 
@@ -63,20 +63,20 @@
 
     - Download the most recent release of [ifs_layeredfs](https://github.com/mon/ifs_layeredfs/releases/)
 
-    <img src="/img/extras/datamods/4.webp">
+    <img src="/two-torial/img/extras/datamods/4.webp">
 
     - Open the archive
 
-    <img src="/img/extras/datamods/5.webp">
+    <img src="/two-torial/img/extras/datamods/5.webp">
 
     - Your game is 32bit *(spice.exe to launch)*: go in the `32bit` folder
     - Your game is 64bit *(spice64.exe to launch)*: go in the `64bit` folder
 
-    <img src="/img/extras/datamods/6.webp">
+    <img src="/two-torial/img/extras/datamods/6.webp">
 
     - Copy the `ifs_hook.dll` file to your game's `modules` folder
 
-    <img src="/img/extras/datamods/7.webp">
+    <img src="/two-torial/img/extras/datamods/7.webp">
 
     Follow the [Injecting DLL Hooks](#injecting-dll-hooks) section to load this DLL.
 
@@ -117,4 +117,4 @@
     The order does matter, as it dictates in which order the DLL files are loaded.  
     **We recommend loading `ifs_hook.dll` before all else**.
 
-    <img src="/img/extras/datamods/8.webp">
+    <img src="/two-torial/img/extras/datamods/8.webp">

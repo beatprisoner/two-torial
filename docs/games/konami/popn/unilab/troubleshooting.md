@@ -1,2 +1,2 @@
-<img class="header-logo" src="/img/konami/popn/unilab/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/popn/unilab/logo.webp">
 --8<-- "docs/games/konami/popn/common/troubleshooting.md"

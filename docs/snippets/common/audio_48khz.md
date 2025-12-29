@@ -9,4 +9,4 @@
     - Open the `Default Format` dropdown
     - Pick either `16 bit, 48000Hz (DVD Quality)` or `24 bit, 48000Hz (Studio Quality)`, click `Apply`, then `OK`
 
-    <img src="/img/common/audio_16_48.webp">
+    <img src="/two-torial/img/common/audio_16_48.webp">

@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/beatstream/animutribe/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/beatstream/animutribe/logo.webp">
 # Troubleshooting
 
 --8<-- "docs/snippets/common/old_guide.md"

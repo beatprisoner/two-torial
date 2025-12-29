@@ -159,7 +159,7 @@
 
     If it's your first time running the game, you'll immediately be greeted with this screen.
 
-    <img src="/img/konami/jubeat/common/firstlaunch/backup_data_error.webp">
+    <img src="/two-torial/img/konami/jubeat/common/firstlaunch/backup_data_error.webp">
 
     Press your `Test` key to initialize the backup data, another message with the same error will pop up.  
     Press your `Test` key again to open the service menu.
@@ -170,7 +170,7 @@
   
     Go to `GAME OPTIONS`, then `SHOP SETTINGS`.
 
-    <img src="/img/konami/jubeat/common/firstlaunch/shop_settings.webp">
+    <img src="/two-torial/img/konami/jubeat/common/firstlaunch/shop_settings.webp">
 
     You will need to set a shop name.
     

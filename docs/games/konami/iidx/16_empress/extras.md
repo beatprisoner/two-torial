@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/iidx/16_empress/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/iidx/16_empress/logo.webp">
 # Extra Information
 
 ## Output modes
@@ -23,7 +23,7 @@
         
         - Go to `GAME OPTIONS`
         
-        <img src="/img/konami/iidx/16_empress/11.webp">
+        <img src="/two-torial/img/konami/iidx/16_empress/11.webp">
         
         - Go to the line that says `OUTPUT MODE` and change it to your desired mode
         

@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/museca/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/museca/logo.webp">
 # Game Setup
 
 --8<-- "docs/snippets/common/data_warning.md"
@@ -135,7 +135,7 @@
 
     The game will go through a series of checks, let it run, if you've done everything properly they'll pass.
 
-    <img src="/img/konami/museca/backupdata.webp">
+    <img src="/two-torial/img/konami/museca/backupdata.webp">
 
     If you're seeing this screen, it means you need to press the `Test` button to initialize the game's backup data.
 

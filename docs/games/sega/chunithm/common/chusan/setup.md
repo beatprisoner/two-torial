@@ -149,37 +149,37 @@
 
     Start the game by running `App\bin\launch.bat`. Let the game load until it reaches the screen below.
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/0_asettings.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/0_asettings.webp">
 
     Press your `Test` button (default `F1`) to enter the service menu. Use the `Service` button
     (default `F2`) to navigate the menu, and `Test` button to select an option.
 
     Navigate to **ゲーム設定** (`GAME ASSIGNMENTS`, the fourth option).
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/1_gamesettings.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/1_gamesettings.webp">
 
     Select **グループ内基準機設定** (`SET STANDARD IN GROUP`, the second option)
     and toggle this setting to **基準機** (`STANDARD`).
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/2_reference.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/2_reference.webp">
 
     Select **終了** (`EXIT`, the last option) to exit to the main service menu.
 
     Navigate to **閉店設定** (`CLOSE SETTING`, the tenth option).
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/3_closingsetting.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/3_closingsetting.webp">
 
     Navigate to **時** (`HOUR`, the second option) and use the `Service` button
     to toggle the setting until it says **全時刻** (`ALL TIME`).
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/4_alltime.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/4_alltime.webp">
 
     Select **終了** (`EXIT`, the last option) to exit to the main service menu, then select **終了**
     (also the last option) in the main menu to exit the service menu.
 
     If you're stuck at the `Waiting for Distribution Server` screen below, close the game and relaunch.
 
-    <img src="/img/sega/chunithm/common/setup/chusan/servicemenu/5_distserver.webp">
+    <img src="/two-torial/img/sega/chunithm/common/setup/chusan/servicemenu/5_distserver.webp">
 
 --8<-- "docs/snippets/sega/common/success.md"
 

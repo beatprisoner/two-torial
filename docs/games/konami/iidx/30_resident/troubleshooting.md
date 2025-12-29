@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/iidx/30_resident/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/iidx/30_resident/logo.webp">
 # Troubleshooting
 
 --8<-- "docs/snippets/common/data_warning.md"

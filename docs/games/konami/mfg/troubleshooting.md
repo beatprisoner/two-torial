@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/mfg/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/mfg/logo.webp">
 
 # Troubleshooting
 

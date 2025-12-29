@@ -177,20 +177,20 @@
 
     Start the game by running `App\package\launch.bat`. Let the game load until you reach a screen with the message below.
 
-    <img src="/img/sega/ongeki/common/setup/servicemenu/0_ongeki_groupcheck.webp">
+    <img src="/two-torial/img/sega/ongeki/common/setup/servicemenu/0_ongeki_groupcheck.webp">
 
     Press your `Test` button (default `F1`) to enter the service menu. Use the `Service` button
     (default `F2`) to navigate the menu, and `Test` button to select an option.
 
     Navigate to **ゲーム設定** (`GAME ASSIGNMENTS`, the 6th option).
 
-    <img class="portrait" src="/img/sega/ongeki/common/setup/servicemenu/1_gamesettings.webp">
+    <img class="portrait" src="/two-torial/img/sega/ongeki/common/setup/servicemenu/1_gamesettings.webp">
 
 
     Select **グループ内基準機の設定** (`SET STANDARD IN GROUP`, the second option)
     and toggle this setting to **基準機** (`STANDARD`).
 
-    <img src="/img/sega/ongeki/common/setup/servicemenu/2_reference.webp">
+    <img src="/two-torial/img/sega/ongeki/common/setup/servicemenu/2_reference.webp">
 
 
     Select **終了** (`EXIT`, the last option) to exit to the main service menu.
@@ -199,13 +199,13 @@
 
     Navigate to **閉店設定** (`CLOSE SETTING`, the 10th option).
 
-    <img src="/img/sega/ongeki/common/setup/servicemenu/3_closesetting.webp">
+    <img src="/two-torial/img/sega/ongeki/common/setup/servicemenu/3_closesetting.webp">
 
 
     Navigate to **時** (`HOUR`, the 2nd option) and use the `Service` button
     to toggle the setting until it says **全時刻** (`ALL TIME`).
 
-    <img src="/img/sega/ongeki/common/setup/servicemenu/4_alltime.webp">
+    <img src="/two-torial/img/sega/ongeki/common/setup/servicemenu/4_alltime.webp">
 
 
     Select **終了** (`EXIT`, the last option) to exit to the main service menu, then select **終了**

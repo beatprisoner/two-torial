@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/sdvx/6_exceedgear/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/sdvx/6_exceedgear/logo.webp">
 # Extra Information
 
 --8<-- "docs/snippets/common/data_warning.md"

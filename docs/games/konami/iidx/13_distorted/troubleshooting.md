@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/iidx/13_distorted/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/iidx/13_distorted/logo.webp">
 # Troubleshooting
 
 --8<-- "docs/snippets/common/old_guide.md"

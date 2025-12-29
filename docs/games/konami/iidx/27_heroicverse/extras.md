@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/iidx/27_heroicverse/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/iidx/27_heroicverse/logo.webp">
 # Extra Information
 
 --8<-- "docs/snippets/common/old_guide.md"

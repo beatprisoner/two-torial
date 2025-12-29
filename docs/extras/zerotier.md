@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/extras/zerotier/logo.webp">
+<img class="header-logo" src="/two-torial/img/extras/zerotier/logo.webp">
 
 # ZeroTier for Cabinet-to-Cabinet Play
 
@@ -32,7 +32,7 @@
     Open your Command Prompt, and run the command `ipconfig`  
     Your IP address will appear under `Ethernet adapter ZeroTier One [NETWORK ID]` next to `IPv4 Address`
 
-    <img src="/img/extras/zerotier/ipconfig.webp">
+    <img src="/two-torial/img/extras/zerotier/ipconfig.webp">
 
     To check if you can successfully reach another computer on the network, run the command `ping [IPv4 Address]` replacing `[IPv4 Address]` with the IP address of the other computer, *not your own*.
 
@@ -130,4 +130,4 @@
     
         You should end up with this:
 
-        <img align=left src="/img/extras/zerotier/config_advanced.webp">
+        <img align=left src="/two-torial/img/extras/zerotier/config_advanced.webp">

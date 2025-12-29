@@ -1,4 +1,4 @@
-<img class="header-logo" src="/img/konami/iidx/16_empress/logo.webp">
+<img class="header-logo" src="/two-torial/img/konami/iidx/16_empress/logo.webp">
 # Game Setup
 
 --8<-- "docs/snippets/common/data_warning.md"
@@ -104,7 +104,7 @@
 
     If it's your first time running the game, you'll soon be greeted with this screen.
 
-    <img src="/img/konami/iidx/14_gold/firstlaunch/2.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/2.webp">
     
     Press your `Test` key to initialize the backup data, a message will pop up stating it's been initialized.
 
@@ -113,13 +113,13 @@
     
     Next, you'll get another error.
     
-    <img src="/img/konami/iidx/14_gold/firstlaunch/3.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/3.webp">
 
     Press your `Test` key again and let the game run for a bit until the monitor check is complete.
 
     You will now be taken to the service menu.
 
-    <img src="/img/konami/iidx/14_gold/firstlaunch/5.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/5.webp">
 
     Instructions on how to navigate the menu are shown at the bottom of the screen:
 
@@ -128,7 +128,7 @@
   
     Start by going up to `CLOCK`.
 
-    <img src="/img/konami/iidx/14_gold/firstlaunch/6.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/6.webp">
 
     Here, simply select `SAVE AND EXIT` and the clock will be set.
 
@@ -136,8 +136,8 @@
 
     Go to `NETWORK OPTIONS` then `e-AMUSEMENT SETTINGS`.
 
-    <img src="/img/konami/iidx/14_gold/firstlaunch/9.webp">
-    <img src="/img/konami/iidx/14_gold/firstlaunch/10.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/9.webp">
+    <img src="/two-torial/img/konami/iidx/14_gold/firstlaunch/10.webp">
 
     You will need to set a shop name.
     
@@ -146,7 +146,7 @@
 
     Select `GAME OPTIONS`.
     
-    <img src="/img/konami/iidx/16_empress/11.webp">
+    <img src="/two-torial/img/konami/iidx/16_empress/11.webp">
 
     Here, you want to select a display type.
 
