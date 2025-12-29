@@ -14,8 +14,6 @@
     - Chinese (zh-TW)                                                                   
     - Korean                 
     
-    An unofficial mod allows you to change the language to Chinese (simplified), this can be found on the [Discord](https://discord.gg/cZRUmEPK78).
-     
     Using ++f1++, the `arrow keys` and ++enter++, navigate to `OTHERS` -> `LANGUAGE`
 
 <img src="/two-torial/img/namco/taikonijiiro/troubleshooting/lang.webp">
