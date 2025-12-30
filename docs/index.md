@@ -15,7 +15,10 @@ By the community, for the community.
 
 <hr>
 
-!!! info "Troubleshooting forums are available in our Discord server if you need direct help!"
+!!! info "Disclaimer - beatprisoner.github.io"
+    This is a fork of the TWO-TORIAL guides taken from Oct 12th 2025, which were removed from public on December 29th 2025. This repo is provided as-is with contributors anonymized and links to previous project updated or removed. It is provided purely for reference and availability of excellent documentation produced by the previous contributors - it is unlikely that this fork will be updated any further.
+    
+    For a more up-to-date fork including the web patcher, please visit [two-torial.maimaidxprism.plus](https://two-torial.maimaidxprism.plus)
 
 !!! warning "This site is by no means all-encompassing"
 

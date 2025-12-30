@@ -8,7 +8,7 @@ TWO-TORIAL, a compendium of information and guides about arcade games. It also s
 
 ## About
 
-*A fork of the TWO-TORIAL website repo taken from Oct 12th 2025, which was removed from GitHub on December 29th 2025. This repo is provided as-is with contributors anonymized and links to previous project updated or removed.*
+*A fork of the TWO-TORIAL guides repo taken from Oct 12th 2025, which were removed from GitHub on December 29th 2025. This repo is provided as-is with contributors anonymized and links to previous project updated or removed. For a more up-to-date fork including the web patcher, please visit [two-torial.maimaidxprism.plus](https://two-torial.maimaidxprism.plus)*
 
 This repository houses a guide dedicated to assisting individuals in configuring and navigating the setup process for various arcade games within this specific gaming genre. It covers essential aspects of installation, configuration, and troubleshooting, aiming to streamline the experience for users.
 
